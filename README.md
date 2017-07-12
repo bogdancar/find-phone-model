@@ -21,3 +21,5 @@ The returned answer is in the form of:
  }
  ]
  ```
+
+ To have the latest phone-list on your solution, don't forget to update the library with `yarn upgrade find-phone-model` or `npm update find-phone-model`
