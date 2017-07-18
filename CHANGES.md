@@ -1,3 +1,8 @@
+V.1.1.1
+-------
+
+-Changed the implementation of datasource from array of objects to array of string arrays to save space on phone-list.js (half as before).
+
 V.1.0.3
 -------
 
