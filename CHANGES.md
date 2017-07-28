@@ -1,3 +1,10 @@
+V.1.1.2
+-------
+(15926 android models)
+
+- Added 159 new android models
+
+
 V.1.1.1
 -------
 

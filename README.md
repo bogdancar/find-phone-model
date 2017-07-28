@@ -23,3 +23,5 @@ The returned answer is in the form of:
  ```
 
  To have the latest phone-list on your solution, don't forget to update the library with `yarn upgrade find-phone-model` or `npm update find-phone-model`
+
+ For a fully functional implementation on Angular 4, look at my repository [find-phone-model-demo](https://github.com/bogdancar/find-phone-model-demo)
