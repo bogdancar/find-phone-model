@@ -1,3 +1,10 @@
+V.1.1.4
+-------
+(16087 android models)
+
+- 72 changed android models
+- From this version on, the number of models will de changed instead of new, because there are also models deleted from the list.
+
 V.1.1.3
 -------
 (15998 android models)
