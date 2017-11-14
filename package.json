@@ -1,6 +1,6 @@
 {
   "name": "find-phone-model",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Simple library to lookup a list of mobile devices",
   "main": "index.js",
   "scripts": {
