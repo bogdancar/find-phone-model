@@ -1,6 +1,14 @@
+V.1.1.7
+-------
+(17813 android models)
+
+-725 changed android models
+
 V.1.1.6
 -------
 (17088 android models)
+
+- 528 changed android models
 
 V.1.1.5
 -------
